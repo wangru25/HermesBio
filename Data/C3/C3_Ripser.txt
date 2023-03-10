@@ -1,0 +1,8 @@
+point cloud with 3 points in dimension 3
+value range: [1.44697,3.31107]
+sparse distance matrix with 3 points and 2/4 entries
+persistence intervals in dim 0:
+ [0,1.44697)
+ [0,3.31104)
+ [0, )
+persistence intervals in dim 1:
